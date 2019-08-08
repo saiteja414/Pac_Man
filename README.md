@@ -10,7 +10,7 @@ INSTRUCTIONS FOR USING OUR GAME :
   for level-2: abstractions <br>
   for level-3: paradigms
   
- Team :
- Manoj(160050075)
- Narayana(160050080)
- Saiteja Nangunoori(160050089)
+ Team : <br>
+ Manoj(160050075) <br>
+ Narayana(160050080) <br>
+ Saiteja Nangunoori(160050089) <br>
